@@ -1,0 +1,5 @@
+ipykernel
+pandas==2.2.1
+pandasql==0.7.3
+seaborn==0.13.2
+matplotlib==3.8.3
